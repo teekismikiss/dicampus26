@@ -142,12 +142,7 @@ La importancia de la ciberseguridad radica en la protección de los activos digi
     </details>
   - <details><summary>Permisos</summary>
     Recursos, información y funciones que una aplicación que instalamos en nuestro dispositivo necesita para funcionar. Por ejemplo, una app para editar fotografías es muy probable que necesite acceder a la cámara de nuestro teléfono, por lo tanto, solicitará el permiso de nuestra cámara. Por otro lado, algunas aplicaciones solicitan permisos abusivos, como acceder a nuestros contactos y archivos que tenemos almacenados, o realizar llamadas sin ser necesario para su correcto funcionamiento.
-    </details>
-
-
-
-
- ## Ciberbullying
+  </details>
  
 ## Formarse en la Ciberseguridad
 
